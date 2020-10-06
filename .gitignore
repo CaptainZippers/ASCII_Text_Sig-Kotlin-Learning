@@ -1,0 +1,9 @@
+# Project exclude paths
+/.gradle/
+/ASCII Text Signature/task/build/
+/ASCII Text Signature/task/out/
+/ASCII Text Signature/task/out/production/classes/
+/Problems/Compression algorithm/out/
+/Problems/Compression algorithm/out/production/classes/
+/Problems/Parse url/out/
+/Problems/Parse url/out/production/classes/
